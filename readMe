@@ -1,0 +1,14 @@
+Exploration of Dynamic Programming in Python
+
+Memoization
+
+1. Make it work
+1.1 Represent a recursive problem as a tree
+1.2 Implement the core recursive logic
+1.3 Validate it.
+
+2. Make it efficient
+1.1 Identify recursive structures/patterns
+1.2 Add a memo object (dictionary for Python)
+1.3 Add a parameter to look up existing entries in memo, only do calculations if not in memo (and return values into memo)
+
