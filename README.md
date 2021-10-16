@@ -1,6 +1,7 @@
 # Dynamic-Programming
 
 Exploration of Dynamic Programming in Python
+
 Source Video (in JavaScript): https://www.youtube.com/watch?v=oBt53YbR9Kk
 
 ## Principles of Dynamic Programming
